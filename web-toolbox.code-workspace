@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "karma-jasmine"
+		},
+		{
+			"path": "webpack-karma-jasmine"
 		}
 	],
 	"settings": {}
