@@ -1,10 +1,18 @@
-# Setup flow for future web prototyping setups
+# Extend the karma-jasmine to use webpack 
 
-* Uses *webpack* to package and automate changes to javascript and css.
+* Uses *webpack* to package and automate changes to javascript.
 
 # Steps
-To start work on the project.
+To start tests.
 
 ```
-yarn start
+yarn test
+yarn test:watch
 ```
+
+To just build a webpack bundle.
+
+```
+yarn build
+```
+
